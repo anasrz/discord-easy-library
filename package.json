@@ -1,0 +1,24 @@
+{
+  "name": "discord-arab",
+  "version": "1.0.1",
+  "description": "Discord InterActions",
+  "main": "route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasrz/discord-easy-library.git"
+  },
+  "keywords": [
+    "discord",
+    "library",
+    "js"
+  ],
+  "author": "anasrz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasrz/discord-easy-library/issues"
+  },
+  "homepage": "https://github.com/anasrz/discord-easy-library#readme"
+}
