@@ -4,7 +4,7 @@ const app = express()
 
 app.listen(3030)
 
-const client = new Client('OTE3Mzg2MjgwNDA3NTY0MzI4.Ya38jQ._ri5IN22wbcs7_d4YGN236Dy6ok')
+const client = new Client('token here')
 
 client.on('ready', () => {
    console.log('ready')
